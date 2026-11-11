@@ -14,6 +14,34 @@ This portfolio demonstrates practical implementations, network architectures, te
 
 ## Featured Engineering Projects
 
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/jr6793108/Network-Engineering-Portfolio">
+        <img src="assets/network-engineering.png" width="100%" alt="Network Engineering">
+      </a>
+      <br>
+      <b>Network Engineering</b>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jr6793108/Multi-Cloud-Lab">
+        <img src="assets/cloud-infrastructure.png" width="100%" alt="Cloud Infrastructure">
+      </a>
+      <br>
+      <b>Cloud Infrastructure</b>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/jr6793108/Cybersecurity">
+        <img src="assets/cybersecurity-iam.png" width="100%" alt="Cybersecurity and IAM">
+      </a>
+      <br>
+      <b>Cybersecurity & IAM</b>
+    </td>
+  </tr>
+</table>
+
+
 ### 🌐 Network Engineering
 
 **[Service Provider MPLS L3VPN Lab](https://github.com/jr6793108/Network-Engineering-Portfolio)**
