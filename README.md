@@ -86,8 +86,8 @@ My goal is to combine extensive infrastructure engineering experience with moder
 ## Connect With Me
 
 - **GitHub:** [jr6793108](https://github.com/jr6793108)
-- **LinkedIn:** Add professional profile link
-- **Resume:** Add current resume link
+- **LinkedIn:** [Linkdeln](https://www.linkedin.com/in/jerry-ruiz-9491839/)
+
 
 ---
 
