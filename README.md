@@ -1,14 +1,24 @@
-# Network & Cloud Infrastructure Engineer
 
-### Telecom Operations | Network Automation | Cybersecurity & IAM
+# Senior Network & Cloud Infrastructure Engineer
 
-Welcome to my engineering portfolio!
+### Telecommunications Operations | Infrastructure Automation | Cybersecurity & IAM
 
-I'm an experienced Network and Telecommunications Engineering professional with a background in enterprise infrastructure, service operations, network design, troubleshooting, and technical leadership.
+I am an experienced Network and Telecommunications Engineering professional with a background in enterprise network infrastructure, service operations, network modernization, troubleshooting, and technical leadership.
 
-My current focus is expanding my expertise in **Cloud Infrastructure, Infrastructure as Code, Identity and Access Management (IAM), and Cybersecurity Operations** through hands-on engineering projects.
+My engineering experience includes supporting complex production networks, coordinating operational transitions, developing technical documentation, and improving network reliability.
 
-This portfolio demonstrates practical implementations, network architectures, technical documentation, troubleshooting procedures, and verified testing results.
+I combine this operational experience with hands-on engineering projects across three disciplines:
+
+- **Network Engineering:** Service-provider routing, IS-IS, BGP, MPLS, LDP, Layer 3 VPNs, network troubleshooting, and recovery validation.
+- **Cloud Infrastructure & Automation:** Microsoft Azure, Terraform, Docker, Linux, LocalStack, and infrastructure monitoring with Prometheus and Grafana.
+- **Cybersecurity & Identity Management:** Active Directory, RBAC, Group Policy, IAM, Wazuh SIEM, security monitoring, incident investigation, and network security analysis.
+
+### What This Portfolio Demonstrates
+
+My projects emphasize practical implementation rather than theoretical knowledge. Each project is designed to demonstrate engineering capabilities through architecture diagrams, configuration, testing, troubleshooting, and documented results.
+
+**Professional focus:** Senior Network Engineering, Cloud Infrastructure Engineering, Network & Cloud Operations, Infrastructure Automation, and Cybersecurity & IAM.
+
 
 ---
 
