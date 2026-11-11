@@ -44,9 +44,6 @@ This portfolio demonstrates practical implementations, network architectures, te
 
 ### 🌐 Network Engineering
 
-
-### 🌐 Network Engineering
-
 **[Service Provider MPLS L3VPN Lab](https://github.com/jr6793108/Network-Engineering-Portfolio/tree/main/Project-01-Service-Provider-Network)**
 
 Designed, implemented, and validated a six-router service-provider network using Containerlab, FRRouting, IS-IS, MPLS/LDP, and MP-BGP VPNv4.
